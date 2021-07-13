@@ -1,4 +1,4 @@
-image: jelaniwoods/appdev2021-dashboards@sha256:070d51e860b485a73c64c81847a5406ed19c2d0f1713c08ede3483d1e75b9b29
+image: jelaniwoods/appdev2021-dashboards@sha256:eb2ba816417c68fe96789c2aaaa901efd46b89c66ddb52ece8483b4ae0593bdb
 
 tasks:
   - command: bundle install
